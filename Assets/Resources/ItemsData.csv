@@ -1,0 +1,6 @@
+Type;Name;Icon;SellPrice;BuyPrice;GrowTime;GrowPlant;Opens
+Seed;First seed;;4;5;20;First plant;Null
+Seed;Second seed;;7;8;60;Second plant;Null
+Plant;First plant;;7;8;0;Null;Second seed
+Plant;Second plant;;11;12;0;Null;Null
+Potion;First potion;;15;16;0;Null;Null
